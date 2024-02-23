@@ -2,8 +2,14 @@
 
 更多页面正在开发中...
 
-## Commands
+作为一个j人零零散散写过很多的计划和阶段性状态描述
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
+碰巧今晚想要做一个网页，就拿计划入手啦！
+
+欢迎我的朋友们随时来看小文最近都在做些什么...
+
+之后可能还会不断的更新笔记呀随写啥的
+
+但是毕竟输入没有那么的方便 可能只会阶段性的更新一些吧 
+
+mkdocs的正确用法应该是使用手册或者项目介绍而不该是日记本hhhh

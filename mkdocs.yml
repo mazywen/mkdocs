@@ -1,4 +1,4 @@
-site_name: Wander in Mazy's World
+site_name: Wander in Mazy's world
 theme:
   name: material
   features:
@@ -8,20 +8,23 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
+    
   language: en
   palette:
-    - scheme: default 
+    - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-      primary: teal
-      accent: purple
+       icon: material/toggle-switch
+       name: Switch to dark mode
+      primary: light green
+      accent: teal
+
     - scheme: slate
       toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
-      primary: teal
+       icon: material/toggle-switch-off-outline
+       name: Switch to light mode
+      primiry: teal
       accent: lime
+
+
+
+  
