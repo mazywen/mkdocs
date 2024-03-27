@@ -1,9 +1,9 @@
 site_name: Wander in Mazy's world
 nav:
-  - Home: index.md
-  - Page 1: page2.md
-  - Page 2: page3.md
-  - Page 3: page4.md
+  - 更新日志: index.md
+  - 日常: page2.md
+  - 笔记: page3.md
+  - ADHD指南: page4.md
 theme:
   name: material
   features:
